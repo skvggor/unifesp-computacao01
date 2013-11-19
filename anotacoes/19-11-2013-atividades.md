@@ -2,7 +2,7 @@
 
 ## Resenha do artigo
 
-> Serão publicados no ambiente moodle da Unifesp, na disciplina correspondente.
+> O material será publicado no ambiente *moodle* da Unifesp, na disciplina correspondente.
 
 ### Artigo:
 
