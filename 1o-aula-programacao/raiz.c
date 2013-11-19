@@ -18,7 +18,7 @@ main() {
   printf("C = ");
   scanf("%f", &c);
 
-  delta = sqrt(b * b - 4 * a * c);
+  delta = sqrt(pow(b, 2) - 4 * a * c);
   raiz1 = (-b + delta) / (2 * a);
   raiz2 = (-b - delta) / (2 * a);
 
