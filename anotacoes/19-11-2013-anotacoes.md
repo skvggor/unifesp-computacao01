@@ -5,7 +5,7 @@
 Resolve o problema de *buffer* quando utilizamos editores de texto convencionais (por exemplo: Microsoft Word) e com ele podemos construir elementos gráficos, textos, fórmulas algébricas entre outras coisas relacionadas a documentação acadêmica ou não.
 
 * Compilar (se o LaTeX estiver instalado)
-    - `latex nome-arquivo.tex`, gerará um arquivo `.div`
+    - `latex nome-arquivo.tex`, gerará um arquivo `.dvi`
     - Com o `.dvi` pronto, utilizar o `dvips`, gerando então o um arquivo `.ps`
     - Utilizar então `ps2pdf` para converter para `.pdf`
 * Estilos - problemas com caracteres especiais
